@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SachinTadkale
-- 👀 I’m interested in Game Development
+- 👀 Interested in Programming.
 - 🌱 I’m currently learning BCA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sachintadkale9960@gmail.com
