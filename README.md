@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SachinTadkale
 - 👀 Interested in Programming.
-- 🌱 I’m currently learning BCA 
+- 🌱 Currently pursuing MCA
+- 🎓 BCA Graduatad.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sachintadkale9960@gmail.com
 
