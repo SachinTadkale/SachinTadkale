@@ -3,7 +3,7 @@
 - 🌱 Currently pursuing MCA
 - 🎓 BCA Graduatad.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sachintadkale9960@gmail.com
+- 📫 How to reach me sachintadkale@outlook.com
 
 <!---
 SachinTadkale/SachinTadkale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
