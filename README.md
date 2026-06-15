@@ -132,14 +132,14 @@ A product and service startup focused on building innovative SaaS solutions whil
 </td>
 <td>
 
-<img src="https://streak-stats.demolab.com?user=SachinTadkale&hide_border=true&background=0d0221&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com?user=SachinTadkale&hide_border=true&background=0d0221&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<!-- <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTadkale&layout=compact&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" /> -->
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTadkale&layout=compact&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" />
 
 </td>
 </tr>
