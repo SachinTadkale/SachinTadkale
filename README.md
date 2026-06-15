@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3d1466,100:1a0a2e&height=220&section=header&text=Hey,%20I'm%20Sachin%20👋&fontSize=42&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20AI%20Builder%20•%20Founder%20@%20Leaparchy&descAlignY=58&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&lines=const+dev+%3D+%22Sachin+Tadkale%22%3B;Software+Developer+💻;Founder+of+Leaparchy+🚀;Building+AI-Powered+Products+🤖;Turning+☕+into+%3C%2Fcode%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&lines=const+dev+=+%22Sachin+Tadkale%22;Software+Developer;Founder+of+Leaparchy;Building+AI-Powered+Products;Turning+ideas+into+software" alt="Typing SVG" />
 
 </div>
 
@@ -123,17 +123,29 @@ A product and service startup focused on building innovative SaaS solutions whil
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SachinTadkale&show_icons=true&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=C4B5FD&text_color=c9d1d9" />
+<table>
+<tr>
+<td>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinTadkale&hide_border=true&background=0d0221&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" />
+<img src="https://github-readme-stats.vercel.app/api?username=SachinTadkale&show_icons=true&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=C4B5FD&text_color=c9d1d9" />
 
-<br/>
+</td>
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTadkale&layout=compact&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SachinTadkale&hide_border=true&background=0d0221&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinTadkale&layout=compact&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" />
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -155,32 +167,11 @@ A product and service startup focused on building innovative SaaS solutions whil
 
 ---
 
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:sachintadkale@outlook.com">
-  <img src="https://img.shields.io/badge/Email-2D1B4E?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
-</a>
-
-<a href="https://www.linkedin.com/in/sachin-tadkale" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://sachin-portfolio-eta-ten.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2D1B4E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" />
-</a>
-
-<a href="https://www.leaparchy.com" target="_blank">
-  <img src="https://img.shields.io/badge/Leaparchy-2D1B4E?style=for-the-badge&logo=rocket&logoColor=C4B5FD" />
-</a>
-
-<a href="https://x.com/_SachinTadkale_" target="_blank">
-  <img src="https://img.shields.io/badge/X-2D1B4E?style=for-the-badge&logo=x&logoColor=C4B5FD" />
-</a>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-2D1B4E?style=for-the-badge&logo=gmail&logoColor=C4B5FD)](mailto:sachintadkale@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D1B4E?style=for-the-badge&logo=linkedin&logoColor=C4B5FD)](https://www.linkedin.com/in/sachin-tadkale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D1B4E?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD)](https://sachin-portfolio-eta-ten.vercel.app/)
+[![Leaparchy](https://img.shields.io/badge/Leaparchy-2D1B4E?style=for-the-badge&logo=rocket&logoColor=C4B5FD)](https://www.leaparchy.com)
+[![X](https://img.shields.io/badge/X-2D1B4E?style=for-the-badge&logo=x&logoColor=C4B5FD)](https://x.com/_SachinTadkale_)
 
 ---
 
