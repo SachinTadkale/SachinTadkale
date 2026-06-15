@@ -146,13 +146,6 @@ A product and service startup focused on building innovative SaaS solutions whil
 </table>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SachinTadkale&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
 ---
 
 ## 😂 Fun Facts About Me
